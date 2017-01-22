@@ -1,5 +1,5 @@
 # GGNet
-codes for Glimpse and Glance Network: a Stochastic Attention Model Driven by Class Saliency, based on Torch 7
+codes for Glance and Glimpse Network: a Stochastic Attention Model Driven by Class Saliency, based on Torch 7
 
 For training and test the GGnets on TC-MNIST 60X60 and 100X100 datasets https://github.com/deepmind/mnist-cluttered
 
